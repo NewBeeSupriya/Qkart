@@ -10,7 +10,7 @@ import {
 } from "react-router-dom";
 
 export const config = {
-  endpoint: `http://${ipConfig.workspaceIp}:8082/api/v1`,
+  endpoint: `https://qkart-backend-p1s6.onrender.com/v1`,
 };
 
 function App() { 
